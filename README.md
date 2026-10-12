@@ -21,3 +21,12 @@
 8. Вычислить среднесуточную потерю воды путешественником.
 9. Отсортировать массив переходов `kmWalked` по возрастанию с помощью `Array.Sort`.
 10. Обнулить первые **2 слота припасов** с помощью `Array.Clear` после переправы через реку.
+
+---
+
+## Скриншоты работы программы
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/94b8b5c3-15dd-423e-9f11-1e145f40e833" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9634ed82-06f0-40f3-9c04-ece8e102c795" />
+
